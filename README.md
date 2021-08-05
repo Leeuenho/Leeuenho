@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeuenho&show_icons=true&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Leeuenhorow=1&column=5&theme=flat&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Leeuenho&row=1&column=5&theme=flat&margin-w=15)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeuenho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
